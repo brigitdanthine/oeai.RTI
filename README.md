@@ -1,6 +1,6 @@
 Skript zum Betrachten von mit Relight Lab generierten RTI
 
-by: Brigit Danthine, Österreichisches Archäologisches Insitut (Österreichische Akademie der Wissenschaften)
+by: Brigit Danthine, Österreichisches Archäologisches Insitut (Österreichische Akademie der Wissenschaften)\\
 E-Mail: brigit.danthine@oeaw.ac.at
 
 1. Relight Lab: Export des RTI inkl. Openlime Viewer (bzw. entsprechende Datenübermittlung)
