@@ -1,6 +1,7 @@
 Skript zum Betrachten von mit Relight Lab generierten RTI
 
 by: Brigit Danthine, Österreichisches Archäologisches Insitut (Österreichische Akademie der Wissenschaften)
+E-Mail: brigit.danthine@oeaw.ac.at
 
 1. Relight Lab: Export des RTI inkl. Openlime Viewer (bzw. entsprechende Datenübermittlung)
 2. Herunterladen und entzippen an ein Ort der Wahl von oeai.RTI, oeai.RTI_START.lnk kann dabei an einen Ort der Wahl, z.B. Desktop, kopiert werden
